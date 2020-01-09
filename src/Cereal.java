@@ -11,6 +11,38 @@ public class Cereal {
         this.rating = rating;
     }
 
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public float getCalories() {
+        return calories;
+    }
+
+    public float getProtein() {
+        return protein;
+    }
+
+    public float getFat() {
+        return fat;
+    }
+
+    public float getCarbo() {
+        return carbo;
+    }
+
+    public float getSugars() {
+        return sugars;
+    }
+
+    public float getRating() {
+        return rating;
+    }
+    
     public String toString() {
         return name + " " + rating;
     }
