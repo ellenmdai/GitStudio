@@ -12,6 +12,6 @@ public class Cereal {
     }
 
     public String toString() {
-        return name;
+        return name + " " + rating;
     }
 }

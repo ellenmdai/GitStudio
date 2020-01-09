@@ -1,9 +1,9 @@
-import java.util.Set;
+import java.util.List;
 
 public class CerealDataProcessor {
-    Set<Cereal> cerealData;
+    List<Cereal> cerealData;
 
-    public CerealDataProcessor(Set<Cereal> cereals) {
+    public CerealDataProcessor(List<Cereal> cereals) {
         this.cerealData = cereals;
     }
 
