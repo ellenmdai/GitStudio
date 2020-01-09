@@ -30,8 +30,7 @@ public class Driver {
                     continue;
                 }
                 Cereal c = new Cereal(cerealLine[Constants.CEREAL_INDEX], Float.parseFloat(cerealLine[Constants.CALORIE_INDEX]),
-                                      Float.parseFloat(cerealLine[Constants.PROTEIN_INDEX]), Float.parseFloat(cerealLine[Constants.FAT_INDEX]),
-                                      Float.parseFloat(cerealLine[Constants.CARBO_INDEX]), Float.parseFloat(cerealLine[Constants.SUGAR_INDEX]),
+                                      Float.parseFloat(cerealLine[Constants.SUGAR_INDEX]),
                                       Float.parseFloat(cerealLine[Constants.RATING_INDEX]));
                 cereals.add(c);
             }

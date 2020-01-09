@@ -7,5 +7,14 @@ public class CerealDataProcessor {
         this.cerealData = cereals;
     }
 
+    public float calculateAverage(Constants.CEREAL_PROPERTIES cp) {
+        float sum = 0;
+        for(Cereal c: this.cerealData) {
+            sum += c.getProperty(cp);
+        }
+
+        return sum += this.cerealData.size();
+    }
+
 }
 
