@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="758cfe49-1f6b-4ed8-810b-c8b8916eaf58" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cereal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cereal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CerealDataProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CerealDataProcessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Constants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Driver.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +77,7 @@
       <updated>1578450304917</updated>
       <workItem from="1578450306246" duration="58000" />
       <workItem from="1578450378086" duration="3146000" />
-      <workItem from="1578528607889" duration="1039000" />
+      <workItem from="1578528607889" duration="2004000" />
     </task>
     <servers />
   </component>
